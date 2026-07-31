@@ -26,3 +26,6 @@ dist/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Generated output images
+**/output/
